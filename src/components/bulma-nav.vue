@@ -19,19 +19,19 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <a class="navbar-item" href="/documentation">Starter template</a>
+        <g-link class="navbar-item" to="/documentation">Starter template</g-link>
       </div>
 
       <div class="navbar-end">
         <div class="navbar-item field has-addons">
           <p class="control">
-            <a class="button">
-              <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+            <a class="button" href="//bulma.io/" target="_blank">
+              <img src="//bulma.io/images/bulma-logo.png" width="112" height="28">
             </a>
           </p>
           <p class="control">
-            <a class="button">
-              <img src="https://gridsome.org/logos/logo-normal.svg" width="112" height="28">
+            <a class="button" href="//gridsome.org" target="_blank">
+              <img src="//gridsome.org/logos/logo-normal.svg" width="112" height="28">
             </a>
           </p>          
        
